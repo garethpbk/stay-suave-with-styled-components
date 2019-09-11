@@ -1,7 +1,7 @@
 {
-  "name": "react-usecontext-hook",
+  "name": "stay-suave-with-styled-components",
   "version": "1.0.0",
-  "description": "Presentation for SDJS about useContext() hook",
+  "description": "Presentation for SDJS about styled-components",
   "main": "index.js",
   "author": "gareth bk",
   "license": "MIT",
@@ -10,7 +10,8 @@
     "build": "mdx-deck build deck.mdx"
   },
   "dependencies": {
-    "mdx-deck": "^1.10.0"
+    "mdx-deck": "^1.10.0",
+    "styled-components": "^4.3.2"
   },
   "devDependencies": {
     "mdx-deck-code-surfer": "^0.5.5",
